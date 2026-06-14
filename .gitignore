@@ -1,0 +1,15 @@
+# Virtual environment — never commit
+myvenv/
+
+# Secrets — never commit
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+docs
